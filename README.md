@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @programmerRajas
 - 👀 I’m interested in App Dev, Embedded Systems, Robotics, and much more...
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me karadnikarrajas@gmail.com
 
 <!---
